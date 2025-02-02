@@ -12,7 +12,6 @@ A demonstration of building a RAG (Retrieval-Augmented Generation) application u
 - 🤖 Ollama integration for embeddings and text generation
 - 🔄 Real-time chat interface with streaming responses
 - 📁 Local file system document source with file change watching
-- 🎨 Modern, cyberpunk-inspired UI design
 
 ## Prerequisites
 
