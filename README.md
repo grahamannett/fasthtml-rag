@@ -2,6 +2,8 @@
 
 A demonstration of building a RAG (Retrieval-Augmented Generation) application using FastHTML and Chroma Vector Store. This application showcases how to create an interactive chat interface that can reference and search through your documents for more accurate and context-aware responses.
 
+![screenshot](docs/screenshot.png)
+
 ## Features
 
 - 🚀 Built with FastHTML for rapid, modern web UI development
